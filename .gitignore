@@ -1,0 +1,17 @@
+# Maven build folder
+target/
+
+# TestNG output folder
+test-output/
+
+# Test Artifacts (Screenshots from previous runs)
+Screenshort/
+
+# Eclipse IDE specific files
+.settings/
+.project
+.classpath
+
+# OS generated files
+.DS_Store
+Thumbs.db
